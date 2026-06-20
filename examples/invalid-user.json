@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "email": "not-an-email",
+  "age": -5,
+  "role": "superadmin",
+  "address": {
+    "city": "Springfield",
+    "zipCode": "invalid",
+    "country": "United States of America"
+  },
+  "tags": ["a", "a"],
+  "extra_field": "not allowed"
+}
